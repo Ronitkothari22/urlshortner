@@ -22,3 +22,17 @@ This project implements a basic URL shortener API using FastAPI and PostgreSQL. 
 
 
 
+## API Usage
+
+### Shorten a URL
+
+- **Endpoint**: [POST /shorten](http://127.0.0.1:8000/shorten)
+- **Request Body**:
+```json
+{
+ "url": "https://example.com/very/long/url"
+}
+
+{
+  "short_url":(http://127.0.0.1:8000/SMHJX)
+}
