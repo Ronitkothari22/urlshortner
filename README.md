@@ -20,5 +20,5 @@ This project implements a basic URL shortener API using FastAPI and PostgreSQL. 
 - SQLAlchemy
 - Pydantic
 
-## Project Structure
+
 
